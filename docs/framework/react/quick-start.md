@@ -1,6 +1,6 @@
 ---
 id: quick-start
-title: Quick Start
+title: Quick Start 
 ---
 
 This code snippet very briefly illustrates the 3 core concepts of React Query:
